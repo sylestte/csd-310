@@ -1,4 +1,4 @@
-#update
+#pytech_update
 
 # Get the database instance
 from pymongo import MongoClient
